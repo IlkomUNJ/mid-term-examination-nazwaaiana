@@ -29,7 +29,3 @@ Analisis ini bertujuan mengidentifikasi **Pola Ideal Segmen** dengan menganalisi
 ## Hasil Analisis (Top 5 Pola Non-Kosong)
 
 Berikut adalah 5 pola $3 \times 3$ yang paling sering muncul dari gambar input. Pola dengan frekuensi tertinggi dianggap sebagai kandidat terbaik untuk detektor di Milestone 2.
-
-### Top 5 Pola Paling Sering Muncul:
-
-#### Pola #1 (Frekuensi: [Nilai Frekuensi])
